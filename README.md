@@ -33,3 +33,5 @@ This is how it works:
 -s, --silent: only show results at the end.
 
 unko!!
+
+test
